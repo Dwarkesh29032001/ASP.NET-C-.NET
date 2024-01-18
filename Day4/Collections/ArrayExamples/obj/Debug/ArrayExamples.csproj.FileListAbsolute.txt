@@ -1,0 +1,8 @@
+C:\DotNet-Dec-2023\Day-4\Collections\ArrayExamples\bin\Debug\ArrayExamples.exe.config
+C:\DotNet-Dec-2023\Day-4\Collections\ArrayExamples\bin\Debug\ArrayExamples.exe
+C:\DotNet-Dec-2023\Day-4\Collections\ArrayExamples\bin\Debug\ArrayExamples.pdb
+C:\DotNet-Dec-2023\Day-4\Collections\ArrayExamples\obj\Debug\ArrayExamples.csproj.AssemblyReference.cache
+C:\DotNet-Dec-2023\Day-4\Collections\ArrayExamples\obj\Debug\ArrayExamples.csproj.SuggestedBindingRedirects.cache
+C:\DotNet-Dec-2023\Day-4\Collections\ArrayExamples\obj\Debug\ArrayExamples.csproj.CoreCompileInputs.cache
+C:\DotNet-Dec-2023\Day-4\Collections\ArrayExamples\obj\Debug\ArrayExamples.exe
+C:\DotNet-Dec-2023\Day-4\Collections\ArrayExamples\obj\Debug\ArrayExamples.pdb

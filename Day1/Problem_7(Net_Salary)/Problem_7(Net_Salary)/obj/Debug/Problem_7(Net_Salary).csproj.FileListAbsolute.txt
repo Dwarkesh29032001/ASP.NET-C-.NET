@@ -1,0 +1,7 @@
+D:\INFOWAY\ASP.NET\Day1\Problem_7(Net_Salary)\Problem_7(Net_Salary)\bin\Debug\Problem_7(Net_Salary).exe.config
+D:\INFOWAY\ASP.NET\Day1\Problem_7(Net_Salary)\Problem_7(Net_Salary)\bin\Debug\Problem_7(Net_Salary).exe
+D:\INFOWAY\ASP.NET\Day1\Problem_7(Net_Salary)\Problem_7(Net_Salary)\bin\Debug\Problem_7(Net_Salary).pdb
+D:\INFOWAY\ASP.NET\Day1\Problem_7(Net_Salary)\Problem_7(Net_Salary)\obj\Debug\Problem_7(Net_Salary).csproj.AssemblyReference.cache
+D:\INFOWAY\ASP.NET\Day1\Problem_7(Net_Salary)\Problem_7(Net_Salary)\obj\Debug\Problem_7(Net_Salary).csproj.CoreCompileInputs.cache
+D:\INFOWAY\ASP.NET\Day1\Problem_7(Net_Salary)\Problem_7(Net_Salary)\obj\Debug\Problem_7(Net_Salary).exe
+D:\INFOWAY\ASP.NET\Day1\Problem_7(Net_Salary)\Problem_7(Net_Salary)\obj\Debug\Problem_7(Net_Salary).pdb

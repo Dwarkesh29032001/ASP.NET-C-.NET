@@ -1,0 +1,7 @@
+D:\INFOWAY\ASP.NET\Day-6\LINQ_Example\LINQ_Example\bin\Debug\LINQ_Example.exe.config
+D:\INFOWAY\ASP.NET\Day-6\LINQ_Example\LINQ_Example\bin\Debug\LINQ_Example.exe
+D:\INFOWAY\ASP.NET\Day-6\LINQ_Example\LINQ_Example\bin\Debug\LINQ_Example.pdb
+D:\INFOWAY\ASP.NET\Day-6\LINQ_Example\LINQ_Example\obj\Debug\LINQ_Example.csproj.AssemblyReference.cache
+D:\INFOWAY\ASP.NET\Day-6\LINQ_Example\LINQ_Example\obj\Debug\LINQ_Example.csproj.CoreCompileInputs.cache
+D:\INFOWAY\ASP.NET\Day-6\LINQ_Example\LINQ_Example\obj\Debug\LINQ_Example.exe
+D:\INFOWAY\ASP.NET\Day-6\LINQ_Example\LINQ_Example\obj\Debug\LINQ_Example.pdb

@@ -1,0 +1,53 @@
+﻿@model List<FirstMvcApp.Models.Customer>
+@{
+    ViewBag.Title = "Customers List";
+}
+
+@*<h1>@ViewBag.PageTitle</h1>
+    <hr />
+    <h6>@ViewBag.PageSubTitle</h6>*@
+<h1>@ViewData["PageTitle"]</h1>
+<hr />
+<h6>@ViewData["PageSubTitle"]</h6>
+<br />
+<table class="table table-hover table-striped">
+    <thead>
+        <tr>
+            <th>Customer Id</th>
+            <th>Contact Name</th>
+            <th>City</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model)
+        {
+            <tr>
+                <td>@customer.CustomerId</td>
+                <td>@customer.ContactName</td>
+                <td>@customer.City</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<hr />
+<table class="table table-hover table-striped">
+    <thead>
+        <tr>
+            <th>Order Id</th>
+            <th>Order Date</th>
+            <th>Quantity</th>
+            <th>Customer Id</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in @ViewData["Orders"] as List<FirstMvcApp.Models.Order>)
+        {
+            <tr>
+                <td>@order.OrderId</td>
+                <td>@order.OrderDate</td>
+                <td>@order.Quantity</td>
+                <td>@order.CustomerId</td>
+            </tr>
+        }
+    </tbody>
+</table>

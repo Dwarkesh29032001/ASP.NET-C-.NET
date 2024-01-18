@@ -1,0 +1,7 @@
+D:\INFOWAY\ASP.NET\Day1\project_12_(by creating Employee class)\project_12_(by creating Employee class)\bin\Debug\project_12_(by creating Employee class).exe.config
+D:\INFOWAY\ASP.NET\Day1\project_12_(by creating Employee class)\project_12_(by creating Employee class)\bin\Debug\project_12_(by creating Employee class).exe
+D:\INFOWAY\ASP.NET\Day1\project_12_(by creating Employee class)\project_12_(by creating Employee class)\bin\Debug\project_12_(by creating Employee class).pdb
+D:\INFOWAY\ASP.NET\Day1\project_12_(by creating Employee class)\project_12_(by creating Employee class)\obj\Debug\project_12_(by creating Employee class).csproj.AssemblyReference.cache
+D:\INFOWAY\ASP.NET\Day1\project_12_(by creating Employee class)\project_12_(by creating Employee class)\obj\Debug\project_12_(by creating Employee class).csproj.CoreCompileInputs.cache
+D:\INFOWAY\ASP.NET\Day1\project_12_(by creating Employee class)\project_12_(by creating Employee class)\obj\Debug\project_12_(by creating Employee class).exe
+D:\INFOWAY\ASP.NET\Day1\project_12_(by creating Employee class)\project_12_(by creating Employee class)\obj\Debug\project_12_(by creating Employee class).pdb

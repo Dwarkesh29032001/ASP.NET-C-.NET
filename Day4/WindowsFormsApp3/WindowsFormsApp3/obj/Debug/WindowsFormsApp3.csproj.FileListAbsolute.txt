@@ -1,0 +1,17 @@
+D:\INFOWAY\ASP.NET\Day4\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\INFOWAY\ASP.NET\Day4\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\INFOWAY\ASP.NET\Day4\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\INFOWAY\ASP.NET\Day4\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+D:\INFOWAY\ASP.NET\Day4\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Memory.dll
+D:\INFOWAY\ASP.NET\Day4\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\INFOWAY\ASP.NET\Day4\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Numerics.Vectors.dll
+D:\INFOWAY\ASP.NET\Day4\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Buffers.dll
+D:\INFOWAY\ASP.NET\Day4\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MySql.Data.xml
+D:\INFOWAY\ASP.NET\Day4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\INFOWAY\ASP.NET\Day4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\INFOWAY\ASP.NET\Day4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\INFOWAY\ASP.NET\Day4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\INFOWAY\ASP.NET\Day4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\INFOWAY\ASP.NET\Day4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+D:\INFOWAY\ASP.NET\Day4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\INFOWAY\ASP.NET\Day4\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

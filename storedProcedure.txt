@@ -1,0 +1,159 @@
+CREATE TABLE Employees (
+    EmployeeId INT AUTO_INCREMENT PRIMARY KEY,
+    EmployeeName VARCHAR(200),
+    Address VARCHAR(200),
+    City VARCHAR(100),
+    Country VARCHAR(100),
+    Phone VARCHAR(20),
+    Email VARCHAR(100),
+    Skillsets VARCHAR(500),
+    Avatar VARCHAR(200),
+    Zipcode VARCHAR(20)
+);
+
+CREATE PROCEDURE ShowAllEmployees()
+BEGIN
+  SELECT * FROM Employees;
+END
+
+CREATE PROCEDURE InsertEmployee(
+    p_EmployeeName VARCHAR(200),
+    p_Address VARCHAR(200),
+    p_City VARCHAR(100),
+    p_Country VARCHAR(100),
+    p_Phone VARCHAR(20),
+    p_Email VARCHAR(100),
+    p_Skillsets VARCHAR(500),
+    p_Avatar VARCHAR(200),
+    p_Zipcode VARCHAR(20)
+)
+BEGIN
+  INSERT INTO Employees(EmployeeName, Address, City, Country, Phone, Email, Skillsets, Avatar, Zipcode) 
+  VALUES (p_EmployeeName, p_Address, p_City, p_Country, p_Phone, p_Email, p_Skillsets, p_Avatar, p_Zipcode);
+END
+
+CREATE PROCEDURE UpdateEmployee(
+    p_EmployeeId INT,
+    p_EmployeeName VARCHAR(200),
+    p_Address VARCHAR(200),
+    p_City VARCHAR(100),
+    p_Country VARCHAR(100),
+    p_Phone VARCHAR(20),
+    p_Email VARCHAR(100),
+    p_Skillsets VARCHAR(500),
+    p_Avatar VARCHAR(200),
+    p_Zipcode VARCHAR(20)
+)
+BEGIN
+  UPDATE Employees
+  SET EmployeeName = p_EmployeeName, Address = p_Address, City = p_City, Country = p_Country, Phone = p_Phone, Email = p_Email, Skillsets = p_Skillsets, Avatar = p_Avatar, Zipcode = p_Zipcode
+  WHERE EmployeeId = p_EmployeeId;
+END
+
+CREATE PROCEDURE DeleteEmployee(
+    p_EmployeeId INT
+)
+BEGIN
+  DELETE FROM Employees WHERE EmployeeId = p_EmployeeId;
+END
+
+
+
+CREATE TABLE Events (
+    EventId INT AUTO_INCREMENT PRIMARY KEY,
+    EventCode VARCHAR(50),
+    EventName VARCHAR(200),
+    Description TEXT,
+    StartDate DATETIME,
+    EndDate DATETIME,
+    Fees DECIMAL(10,2),
+    TotalSeatsFilled INT,
+    Logo VARCHAR(200)
+);
+
+CREATE PROCEDURE ShowAllEvents()
+BEGIN
+  SELECT * FROM Events;
+END
+
+CREATE PROCEDURE InsertEvent(
+    p_EventCode VARCHAR(50),
+    p_EventName VARCHAR(200),
+    p_Description TEXT,
+    p_StartDate DATETIME,
+    p_EndDate DATETIME,
+    p_Fees DECIMAL(10,2),
+    p_TotalSeatsFilled INT,
+    p_Logo VARCHAR(200)
+)
+BEGIN
+  INSERT INTO Events(EventCode, EventName, Description, StartDate, EndDate, Fees, TotalSeatsFilled, Logo) 
+  VALUES (p_EventCode, p_EventName, p_Description, p_StartDate, p_EndDate, p_Fees, p_TotalSeatsFilled, p_Logo);
+END
+
+CREATE PROCEDURE UpdateEvent(
+    p_EventId INT,
+    p_EventCode VARCHAR(50),
+    p_EventName VARCHAR(200),
+    p_Description TEXT,
+    p_StartDate DATETIME,
+    p_EndDate DATETIME,
+    p_Fees DECIMAL(10,2),
+    p_TotalSeatsFilled INT,
+    p_Logo VARCHAR(200)
+)
+BEGIN
+  UPDATE Events
+  SET EventCode = p_EventCode, EventName = p_EventName, Description = p_Description, StartDate = p_StartDate, EndDate = p_EndDate, Fees = p_Fees, TotalSeatsFilled = p_TotalSeatsFilled, Logo = p_Logo
+  WHERE EventId = p_EventId;
+END
+
+CREATE PROCEDURE DeleteEvent(
+    p_EventId INT
+)
+BEGIN
+  DELETE FROM Events WHERE EventId = p_EventId;
+END
+
+
+CREATE TABLE Users (
+    UserId INT AUTO_INCREMENT PRIMARY KEY,
+    Email VARCHAR(100),
+    Password VARCHAR(100),
+    RoleName VARCHAR(100)
+);
+
+
+CREATE PROCEDURE ShowAllUsers()
+BEGIN
+  SELECT * FROM Users;
+END
+
+CREATE PROCEDURE InsertUser(
+    p_Email VARCHAR(100),
+    p_Password VARCHAR(100),
+    p_RoleName VARCHAR(100)
+)
+BEGIN
+  INSERT INTO Users(Email, Password, RoleName) 
+  VALUES (p_Email, p_Password, p_RoleName);
+END
+
+CREATE PROCEDURE UpdateUser(
+    p_UserId INT,
+    p_Email VARCHAR(100),
+    p_Password VARCHAR(100),
+    p_RoleName VARCHAR(100)
+)
+BEGIN
+  UPDATE Users
+  SET Email = p_Email, Password = p_Password, RoleName = p_RoleName
+  WHERE UserId = p_UserId;
+END
+
+CREATE PROCEDURE DeleteUser(
+    p_UserId INT
+)
+BEGIN
+  DELETE FROM Users WHERE UserId = p_UserId;
+END

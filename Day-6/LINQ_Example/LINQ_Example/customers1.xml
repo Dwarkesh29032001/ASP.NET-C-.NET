@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Customer CustomerId="1200" ContactName="Pravinkumar R. D." City="Pune">
+    <Orders>
+      <Order OrderId="123" qty="12" />
+    </Orders>
+  </Customer>
+</Customers>

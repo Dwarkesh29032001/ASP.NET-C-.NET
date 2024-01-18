@@ -1,0 +1,7 @@
+D:\INFOWAY\ASP.NET\Day1\Problem_5(Swap_number)\Problem_5(Swap_number)\bin\Debug\Problem_5(Swap_number).exe.config
+D:\INFOWAY\ASP.NET\Day1\Problem_5(Swap_number)\Problem_5(Swap_number)\bin\Debug\Problem_5(Swap_number).exe
+D:\INFOWAY\ASP.NET\Day1\Problem_5(Swap_number)\Problem_5(Swap_number)\bin\Debug\Problem_5(Swap_number).pdb
+D:\INFOWAY\ASP.NET\Day1\Problem_5(Swap_number)\Problem_5(Swap_number)\obj\Debug\Problem_5(Swap_number).csproj.AssemblyReference.cache
+D:\INFOWAY\ASP.NET\Day1\Problem_5(Swap_number)\Problem_5(Swap_number)\obj\Debug\Problem_5(Swap_number).csproj.CoreCompileInputs.cache
+D:\INFOWAY\ASP.NET\Day1\Problem_5(Swap_number)\Problem_5(Swap_number)\obj\Debug\Problem_5(Swap_number).exe
+D:\INFOWAY\ASP.NET\Day1\Problem_5(Swap_number)\Problem_5(Swap_number)\obj\Debug\Problem_5(Swap_number).pdb

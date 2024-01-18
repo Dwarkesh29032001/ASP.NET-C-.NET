@@ -1,0 +1,7 @@
+D:\INFOWAY\ASP.NET\Day1\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe.config
+D:\INFOWAY\ASP.NET\Day1\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe
+D:\INFOWAY\ASP.NET\Day1\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.pdb
+D:\INFOWAY\ASP.NET\Day1\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.csproj.AssemblyReference.cache
+D:\INFOWAY\ASP.NET\Day1\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.csproj.CoreCompileInputs.cache
+D:\INFOWAY\ASP.NET\Day1\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.exe
+D:\INFOWAY\ASP.NET\Day1\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.pdb

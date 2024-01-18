@@ -1,0 +1,8 @@
+C:\DotNet-Dec-2023\Day-4\Collections\GenericCollectionExamples\bin\Debug\GenericCollectionExamples.exe.config
+C:\DotNet-Dec-2023\Day-4\Collections\GenericCollectionExamples\bin\Debug\GenericCollectionExamples.exe
+C:\DotNet-Dec-2023\Day-4\Collections\GenericCollectionExamples\bin\Debug\GenericCollectionExamples.pdb
+C:\DotNet-Dec-2023\Day-4\Collections\GenericCollectionExamples\obj\Debug\GenericCollectionExamples.csproj.AssemblyReference.cache
+C:\DotNet-Dec-2023\Day-4\Collections\GenericCollectionExamples\obj\Debug\GenericCollectionExamples.csproj.SuggestedBindingRedirects.cache
+C:\DotNet-Dec-2023\Day-4\Collections\GenericCollectionExamples\obj\Debug\GenericCollectionExamples.csproj.CoreCompileInputs.cache
+C:\DotNet-Dec-2023\Day-4\Collections\GenericCollectionExamples\obj\Debug\GenericCollectionExamples.exe
+C:\DotNet-Dec-2023\Day-4\Collections\GenericCollectionExamples\obj\Debug\GenericCollectionExamples.pdb

@@ -1,0 +1,7 @@
+D:\INFOWAY\ASP.NET\Day2\Events_Delegate_Demo\Events_Delegate_Demo\bin\Debug\Events_Delegate_Demo.exe.config
+D:\INFOWAY\ASP.NET\Day2\Events_Delegate_Demo\Events_Delegate_Demo\bin\Debug\Events_Delegate_Demo.exe
+D:\INFOWAY\ASP.NET\Day2\Events_Delegate_Demo\Events_Delegate_Demo\bin\Debug\Events_Delegate_Demo.pdb
+D:\INFOWAY\ASP.NET\Day2\Events_Delegate_Demo\Events_Delegate_Demo\obj\Debug\Events_Delegate_Demo.csproj.AssemblyReference.cache
+D:\INFOWAY\ASP.NET\Day2\Events_Delegate_Demo\Events_Delegate_Demo\obj\Debug\Events_Delegate_Demo.csproj.CoreCompileInputs.cache
+D:\INFOWAY\ASP.NET\Day2\Events_Delegate_Demo\Events_Delegate_Demo\obj\Debug\Events_Delegate_Demo.exe
+D:\INFOWAY\ASP.NET\Day2\Events_Delegate_Demo\Events_Delegate_Demo\obj\Debug\Events_Delegate_Demo.pdb

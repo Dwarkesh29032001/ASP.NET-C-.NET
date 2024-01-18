@@ -1,0 +1,7 @@
+D:\INFOWAY\ASP.NET\Day-6\ThreadSynchonize_Example\ThreadSynchonize_Example\bin\Debug\ThreadSynchonize_Example.exe.config
+D:\INFOWAY\ASP.NET\Day-6\ThreadSynchonize_Example\ThreadSynchonize_Example\bin\Debug\ThreadSynchonize_Example.exe
+D:\INFOWAY\ASP.NET\Day-6\ThreadSynchonize_Example\ThreadSynchonize_Example\bin\Debug\ThreadSynchonize_Example.pdb
+D:\INFOWAY\ASP.NET\Day-6\ThreadSynchonize_Example\ThreadSynchonize_Example\obj\Debug\ThreadSynchonize_Example.csproj.AssemblyReference.cache
+D:\INFOWAY\ASP.NET\Day-6\ThreadSynchonize_Example\ThreadSynchonize_Example\obj\Debug\ThreadSynchonize_Example.csproj.CoreCompileInputs.cache
+D:\INFOWAY\ASP.NET\Day-6\ThreadSynchonize_Example\ThreadSynchonize_Example\obj\Debug\ThreadSynchonize_Example.exe
+D:\INFOWAY\ASP.NET\Day-6\ThreadSynchonize_Example\ThreadSynchonize_Example\obj\Debug\ThreadSynchonize_Example.pdb

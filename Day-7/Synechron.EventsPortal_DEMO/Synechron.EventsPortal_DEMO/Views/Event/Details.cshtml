@@ -1,0 +1,52 @@
+﻿@model Synechron.EventsPortal_DEMO.Models.Event
+
+@{
+    ViewBag.Title = "Event Details";
+}
+
+
+
+<h2>Details of - @Model.EventName  </h2>
+
+<table class="table table-hover table-striped">
+    <tbody>
+        <tr>
+            <th>Event Id</th>
+            <td>@Model.EventId</td>
+        </tr>
+        <tr>
+            <th>Event Code</th>
+            <td>@Model.EventCode</td>
+        </tr>
+        <tr>
+            <th>Event Name</th>
+            <td>@Model.EventName</td>
+        </tr>
+        <tr>
+            <th>Employee Description</th>
+            <td>@Model.Description</td>
+        </tr>
+        <tr>
+            <th>Event StartDate</th>
+            <td>@Model.StartDate</td>
+        </tr>
+        <tr>
+            <th>Event EndDate</th>
+            <td>@Model.EndDate</td>
+        </tr>
+        <tr>
+            <th>Event Fee</th>
+            <td>@Model.Fee</td>
+        </tr>
+        <tr>
+            <th>Event TotalSeatFilled</th>
+            <td>@Model.TotalSeatFilled</td>
+        </tr>
+        <tr>
+            <th>Event Logo</th>
+            <td>
+                <img src=@Url.Content(Model.Logo) alt="@Model.EventId" style=" height: 150px;" />
+            </td>
+        </tr>
+    </tbody>
+</table>

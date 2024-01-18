@@ -1,0 +1,7 @@
+D:\INFOWAY\ASP.NET\Day2\OOPs_concepts_Demo\OOPs_concepts_Demo\bin\Debug\OOPs_concepts_Demo.exe.config
+D:\INFOWAY\ASP.NET\Day2\OOPs_concepts_Demo\OOPs_concepts_Demo\bin\Debug\OOPs_concepts_Demo.exe
+D:\INFOWAY\ASP.NET\Day2\OOPs_concepts_Demo\OOPs_concepts_Demo\bin\Debug\OOPs_concepts_Demo.pdb
+D:\INFOWAY\ASP.NET\Day2\OOPs_concepts_Demo\OOPs_concepts_Demo\obj\Debug\OOPs_concepts_Demo.csproj.AssemblyReference.cache
+D:\INFOWAY\ASP.NET\Day2\OOPs_concepts_Demo\OOPs_concepts_Demo\obj\Debug\OOPs_concepts_Demo.csproj.CoreCompileInputs.cache
+D:\INFOWAY\ASP.NET\Day2\OOPs_concepts_Demo\OOPs_concepts_Demo\obj\Debug\OOPs_concepts_Demo.exe
+D:\INFOWAY\ASP.NET\Day2\OOPs_concepts_Demo\OOPs_concepts_Demo\obj\Debug\OOPs_concepts_Demo.pdb

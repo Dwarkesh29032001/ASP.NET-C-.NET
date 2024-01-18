@@ -1,0 +1,60 @@
+﻿@using Synechron.EventsPortal_DEMO.Models;
+
+@model List<Employee>
+
+
+@{
+    ViewBag.Title = "Employee List !";
+}
+<h1>@ViewBag.PageTitle</h1>
+<hr/>
+<h6>@ViewBag.PageSubTitle</h6>
+@if (Model.Count > 0)
+{
+    <table class="table table-hover table-striped">
+        <thead>
+            <tr>
+                <th>EmployeeID</th>
+                <th>EmployeeName</th>
+
+                <th>City</th>
+
+                <th>Phone</th>
+                <th>Email</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Employee employee in Model)
+            {
+            
+                <tr>
+                    <td>@employee.EmployeeId</td>
+                    <td>@employee.EmployeeName</td>
+                    <td>@employee.City</td>
+                    <td>@employee.Phone</td>
+                    <td>@employee.Email</td>
+
+                    <td>
+                        @Html.ActionLink("Show Details" , "Details" , new {id = employee.EmployeeId} , new {@class = "btn btn-info"}) 
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}
+
+else
+{
+
+    <h1>Sorry ! we didn't find any Employee Record </h1>
+}
+
+
+
+
+
+
+

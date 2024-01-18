@@ -1,0 +1,7 @@
+D:\INFOWAY\ASP.NET\Day1\Project_22\Project_22\bin\Debug\Project_22.exe.config
+D:\INFOWAY\ASP.NET\Day1\Project_22\Project_22\bin\Debug\Project_22.exe
+D:\INFOWAY\ASP.NET\Day1\Project_22\Project_22\bin\Debug\Project_22.pdb
+D:\INFOWAY\ASP.NET\Day1\Project_22\Project_22\obj\Debug\Project_22.csproj.AssemblyReference.cache
+D:\INFOWAY\ASP.NET\Day1\Project_22\Project_22\obj\Debug\Project_22.csproj.CoreCompileInputs.cache
+D:\INFOWAY\ASP.NET\Day1\Project_22\Project_22\obj\Debug\Project_22.exe
+D:\INFOWAY\ASP.NET\Day1\Project_22\Project_22\obj\Debug\Project_22.pdb

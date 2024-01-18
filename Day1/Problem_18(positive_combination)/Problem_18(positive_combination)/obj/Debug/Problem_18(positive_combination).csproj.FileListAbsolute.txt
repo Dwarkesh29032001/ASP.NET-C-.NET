@@ -1,0 +1,7 @@
+D:\INFOWAY\ASP.NET\Day1\Problem_18(positive_combination)\Problem_18(positive_combination)\bin\Debug\Problem_18(positive_combination).exe.config
+D:\INFOWAY\ASP.NET\Day1\Problem_18(positive_combination)\Problem_18(positive_combination)\bin\Debug\Problem_18(positive_combination).exe
+D:\INFOWAY\ASP.NET\Day1\Problem_18(positive_combination)\Problem_18(positive_combination)\bin\Debug\Problem_18(positive_combination).pdb
+D:\INFOWAY\ASP.NET\Day1\Problem_18(positive_combination)\Problem_18(positive_combination)\obj\Debug\Problem_18(positive_combination).csproj.AssemblyReference.cache
+D:\INFOWAY\ASP.NET\Day1\Problem_18(positive_combination)\Problem_18(positive_combination)\obj\Debug\Problem_18(positive_combination).csproj.CoreCompileInputs.cache
+D:\INFOWAY\ASP.NET\Day1\Problem_18(positive_combination)\Problem_18(positive_combination)\obj\Debug\Problem_18(positive_combination).exe
+D:\INFOWAY\ASP.NET\Day1\Problem_18(positive_combination)\Problem_18(positive_combination)\obj\Debug\Problem_18(positive_combination).pdb

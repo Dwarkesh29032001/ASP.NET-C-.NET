@@ -1,0 +1,8 @@
+C:\DotNet-Dec-2023\Day-4\FileIoOperations\FileIoOperations\bin\Debug\FileIoOperations.exe.config
+C:\DotNet-Dec-2023\Day-4\FileIoOperations\FileIoOperations\bin\Debug\FileIoOperations.exe
+C:\DotNet-Dec-2023\Day-4\FileIoOperations\FileIoOperations\bin\Debug\FileIoOperations.pdb
+C:\DotNet-Dec-2023\Day-4\FileIoOperations\FileIoOperations\obj\Debug\FileIoOperations.csproj.AssemblyReference.cache
+C:\DotNet-Dec-2023\Day-4\FileIoOperations\FileIoOperations\obj\Debug\FileIoOperations.csproj.SuggestedBindingRedirects.cache
+C:\DotNet-Dec-2023\Day-4\FileIoOperations\FileIoOperations\obj\Debug\FileIoOperations.csproj.CoreCompileInputs.cache
+C:\DotNet-Dec-2023\Day-4\FileIoOperations\FileIoOperations\obj\Debug\FileIoOperations.exe
+C:\DotNet-Dec-2023\Day-4\FileIoOperations\FileIoOperations\obj\Debug\FileIoOperations.pdb

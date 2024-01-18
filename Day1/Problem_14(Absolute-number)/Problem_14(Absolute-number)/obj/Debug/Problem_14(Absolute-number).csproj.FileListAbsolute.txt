@@ -1,0 +1,7 @@
+D:\INFOWAY\ASP.NET\Day1\Problem_14(Absolute-number)\Problem_14(Absolute-number)\bin\Debug\Problem_14(Absolute-number).exe.config
+D:\INFOWAY\ASP.NET\Day1\Problem_14(Absolute-number)\Problem_14(Absolute-number)\bin\Debug\Problem_14(Absolute-number).exe
+D:\INFOWAY\ASP.NET\Day1\Problem_14(Absolute-number)\Problem_14(Absolute-number)\bin\Debug\Problem_14(Absolute-number).pdb
+D:\INFOWAY\ASP.NET\Day1\Problem_14(Absolute-number)\Problem_14(Absolute-number)\obj\Debug\Problem_14(Absolute-number).csproj.AssemblyReference.cache
+D:\INFOWAY\ASP.NET\Day1\Problem_14(Absolute-number)\Problem_14(Absolute-number)\obj\Debug\Problem_14(Absolute-number).csproj.CoreCompileInputs.cache
+D:\INFOWAY\ASP.NET\Day1\Problem_14(Absolute-number)\Problem_14(Absolute-number)\obj\Debug\Problem_14(Absolute-number).exe
+D:\INFOWAY\ASP.NET\Day1\Problem_14(Absolute-number)\Problem_14(Absolute-number)\obj\Debug\Problem_14(Absolute-number).pdb

@@ -1,0 +1,7 @@
+D:\INFOWAY\ASP.NET\Day1\Problem_8\Problem_8\bin\Debug\Problem_8.exe.config
+D:\INFOWAY\ASP.NET\Day1\Problem_8\Problem_8\bin\Debug\Problem_8.exe
+D:\INFOWAY\ASP.NET\Day1\Problem_8\Problem_8\bin\Debug\Problem_8.pdb
+D:\INFOWAY\ASP.NET\Day1\Problem_8\Problem_8\obj\Debug\Problem_8.csproj.AssemblyReference.cache
+D:\INFOWAY\ASP.NET\Day1\Problem_8\Problem_8\obj\Debug\Problem_8.csproj.CoreCompileInputs.cache
+D:\INFOWAY\ASP.NET\Day1\Problem_8\Problem_8\obj\Debug\Problem_8.exe
+D:\INFOWAY\ASP.NET\Day1\Problem_8\Problem_8\obj\Debug\Problem_8.pdb

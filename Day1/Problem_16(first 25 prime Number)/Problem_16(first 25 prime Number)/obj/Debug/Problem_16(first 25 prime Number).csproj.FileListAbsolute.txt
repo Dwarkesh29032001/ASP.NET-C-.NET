@@ -1,0 +1,7 @@
+D:\INFOWAY\ASP.NET\Day1\Problem_16(first 25 prime Number)\Problem_16(first 25 prime Number)\bin\Debug\Problem_16(first 25 prime Number).exe.config
+D:\INFOWAY\ASP.NET\Day1\Problem_16(first 25 prime Number)\Problem_16(first 25 prime Number)\bin\Debug\Problem_16(first 25 prime Number).exe
+D:\INFOWAY\ASP.NET\Day1\Problem_16(first 25 prime Number)\Problem_16(first 25 prime Number)\bin\Debug\Problem_16(first 25 prime Number).pdb
+D:\INFOWAY\ASP.NET\Day1\Problem_16(first 25 prime Number)\Problem_16(first 25 prime Number)\obj\Debug\Problem_16(first 25 prime Number).csproj.AssemblyReference.cache
+D:\INFOWAY\ASP.NET\Day1\Problem_16(first 25 prime Number)\Problem_16(first 25 prime Number)\obj\Debug\Problem_16(first 25 prime Number).csproj.CoreCompileInputs.cache
+D:\INFOWAY\ASP.NET\Day1\Problem_16(first 25 prime Number)\Problem_16(first 25 prime Number)\obj\Debug\Problem_16(first 25 prime Number).exe
+D:\INFOWAY\ASP.NET\Day1\Problem_16(first 25 prime Number)\Problem_16(first 25 prime Number)\obj\Debug\Problem_16(first 25 prime Number).pdb

@@ -1,0 +1,7 @@
+D:\INFOWAY\ASP.NET\Day1\Problem_12(Employee_Chart)\Problem_12(Employee_Chart)\bin\Debug\Problem_12(Employee_Chart).exe.config
+D:\INFOWAY\ASP.NET\Day1\Problem_12(Employee_Chart)\Problem_12(Employee_Chart)\bin\Debug\Problem_12(Employee_Chart).exe
+D:\INFOWAY\ASP.NET\Day1\Problem_12(Employee_Chart)\Problem_12(Employee_Chart)\bin\Debug\Problem_12(Employee_Chart).pdb
+D:\INFOWAY\ASP.NET\Day1\Problem_12(Employee_Chart)\Problem_12(Employee_Chart)\obj\Debug\Problem_12(Employee_Chart).csproj.AssemblyReference.cache
+D:\INFOWAY\ASP.NET\Day1\Problem_12(Employee_Chart)\Problem_12(Employee_Chart)\obj\Debug\Problem_12(Employee_Chart).csproj.CoreCompileInputs.cache
+D:\INFOWAY\ASP.NET\Day1\Problem_12(Employee_Chart)\Problem_12(Employee_Chart)\obj\Debug\Problem_12(Employee_Chart).exe
+D:\INFOWAY\ASP.NET\Day1\Problem_12(Employee_Chart)\Problem_12(Employee_Chart)\obj\Debug\Problem_12(Employee_Chart).pdb

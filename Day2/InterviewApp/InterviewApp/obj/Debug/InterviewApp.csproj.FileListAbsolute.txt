@@ -1,0 +1,7 @@
+D:\INFOWAY\ASP.NET\Day2\InterviewApp\InterviewApp\bin\Debug\InterviewApp.exe.config
+D:\INFOWAY\ASP.NET\Day2\InterviewApp\InterviewApp\bin\Debug\InterviewApp.exe
+D:\INFOWAY\ASP.NET\Day2\InterviewApp\InterviewApp\bin\Debug\InterviewApp.pdb
+D:\INFOWAY\ASP.NET\Day2\InterviewApp\InterviewApp\obj\Debug\InterviewApp.csproj.AssemblyReference.cache
+D:\INFOWAY\ASP.NET\Day2\InterviewApp\InterviewApp\obj\Debug\InterviewApp.csproj.CoreCompileInputs.cache
+D:\INFOWAY\ASP.NET\Day2\InterviewApp\InterviewApp\obj\Debug\InterviewApp.exe
+D:\INFOWAY\ASP.NET\Day2\InterviewApp\InterviewApp\obj\Debug\InterviewApp.pdb

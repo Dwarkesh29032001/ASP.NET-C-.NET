@@ -1,0 +1,28 @@
+Z:\MS .NET Technologies\Exam\StudentConsoleApp\StudentConsoleApp\bin\Debug\StudentConsoleApp.exe.config
+Z:\MS .NET Technologies\Exam\StudentConsoleApp\StudentConsoleApp\bin\Debug\StudentConsoleApp.exe
+Z:\MS .NET Technologies\Exam\StudentConsoleApp\StudentConsoleApp\bin\Debug\StudentConsoleApp.pdb
+Z:\MS .NET Technologies\Exam\StudentConsoleApp\StudentConsoleApp\bin\Debug\MySql.Data.dll
+Z:\MS .NET Technologies\Exam\StudentConsoleApp\StudentConsoleApp\bin\Debug\System.Memory.dll
+Z:\MS .NET Technologies\Exam\StudentConsoleApp\StudentConsoleApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\MS .NET Technologies\Exam\StudentConsoleApp\StudentConsoleApp\bin\Debug\System.Numerics.Vectors.dll
+Z:\MS .NET Technologies\Exam\StudentConsoleApp\StudentConsoleApp\bin\Debug\System.Buffers.dll
+Z:\MS .NET Technologies\Exam\StudentConsoleApp\StudentConsoleApp\bin\Debug\MySql.Data.xml
+Z:\MS .NET Technologies\Exam\StudentConsoleApp\StudentConsoleApp\obj\Debug\StudentConsoleApp.csproj.AssemblyReference.cache
+Z:\MS .NET Technologies\Exam\StudentConsoleApp\StudentConsoleApp\obj\Debug\StudentConsoleApp.csproj.CoreCompileInputs.cache
+Z:\MS .NET Technologies\Exam\StudentConsoleApp\StudentConsoleApp\obj\Debug\StudentConsoleApp.csproj.CopyComplete
+Z:\MS .NET Technologies\Exam\StudentConsoleApp\StudentConsoleApp\obj\Debug\StudentConsoleApp.exe
+Z:\MS .NET Technologies\Exam\StudentConsoleApp\StudentConsoleApp\obj\Debug\StudentConsoleApp.pdb
+D:\INFOWAY\ASP.NET\StudentConsoleApp\StudentConsoleApp\bin\Debug\StudentConsoleApp.exe.config
+D:\INFOWAY\ASP.NET\StudentConsoleApp\StudentConsoleApp\bin\Debug\StudentConsoleApp.exe
+D:\INFOWAY\ASP.NET\StudentConsoleApp\StudentConsoleApp\bin\Debug\StudentConsoleApp.pdb
+D:\INFOWAY\ASP.NET\StudentConsoleApp\StudentConsoleApp\bin\Debug\MySql.Data.dll
+D:\INFOWAY\ASP.NET\StudentConsoleApp\StudentConsoleApp\bin\Debug\System.Memory.dll
+D:\INFOWAY\ASP.NET\StudentConsoleApp\StudentConsoleApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\INFOWAY\ASP.NET\StudentConsoleApp\StudentConsoleApp\bin\Debug\System.Numerics.Vectors.dll
+D:\INFOWAY\ASP.NET\StudentConsoleApp\StudentConsoleApp\bin\Debug\System.Buffers.dll
+D:\INFOWAY\ASP.NET\StudentConsoleApp\StudentConsoleApp\bin\Debug\MySql.Data.xml
+D:\INFOWAY\ASP.NET\StudentConsoleApp\StudentConsoleApp\obj\Debug\StudentConsoleApp.csproj.AssemblyReference.cache
+D:\INFOWAY\ASP.NET\StudentConsoleApp\StudentConsoleApp\obj\Debug\StudentConsoleApp.csproj.CoreCompileInputs.cache
+D:\INFOWAY\ASP.NET\StudentConsoleApp\StudentConsoleApp\obj\Debug\StudentConsoleApp.csproj.CopyComplete
+D:\INFOWAY\ASP.NET\StudentConsoleApp\StudentConsoleApp\obj\Debug\StudentConsoleApp.exe
+D:\INFOWAY\ASP.NET\StudentConsoleApp\StudentConsoleApp\obj\Debug\StudentConsoleApp.pdb

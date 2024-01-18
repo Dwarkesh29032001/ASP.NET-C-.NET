@@ -1,0 +1,45 @@
+﻿@Model List<Synechron.EventPorta_DEMO.Models.Employee>
+
+
+@{
+    ViewBag.Title = "List";
+}
+
+<h2>List</h2>
+
+    <h2>@ViewData["PageTilte"]</h2>
+
+    <table class="table table-hover table-striped>
+        <thead>
+            <tr>
+                <th>EmployeeID</th>
+                <th>EmployeeName</th>
+                <th>Address</th>
+                <th>City</th>
+                <th>Country</th>
+                <th>Phone</th>
+                <th>Email</th>
+                <th>SkillSets</th>
+                <th>Avatar</th>
+                <th>Zipcode</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(Synechron.EventsPortal_DEMO.Models.Employee employee in Model)
+            {
+                <tr>
+                    <td>@employee.EmployeeId</td>
+                    <td>@employee.EmployeeName</td>
+                    <td>@employee.Address</td>
+                    <td>@employee.City</td>
+                    <td>@employee.Country</td>
+                    <td>@employee.Phone</td>
+                    <td>@employee.Email</td>
+                    <td>@employee.SkillSets</td>
+                    <td>@employee.Avatar</td>
+                    <td>@employee.Zipcode</td>
+                </tr>
+            } 
+        </tbody>
+
+    </table>
